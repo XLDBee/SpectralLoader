@@ -2,7 +2,7 @@ local env = getgenv()
 local PlaceId = game.PlaceId
 local GameId = game.GameId
 
-local BASE_URL = "REPLACE_WITH_GITHUB_RAW_BASE/"
+local BASE_URL = "https://raw.githubusercontent.com/XLDBee/SpectralLoader/main/"
 
 env.SPECTRAL_LOADER_BASE_URL = BASE_URL
 
